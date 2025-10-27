@@ -15,4 +15,9 @@ El objetivo de esta práctica es instalar y configurar Apache en una máquina vi
     ![Acceso por ssh](image-3.png)
 + 2 Preparación del entorno:
     + Actualización de paquetes:
+    ![Actualización de paquetes](image-5.png)
+    + Instalción apache2: 
+
+
+
 ## Problemas encontrados durante la configuración y despligue, y su solución
