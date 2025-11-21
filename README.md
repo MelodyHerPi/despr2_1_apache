@@ -16,7 +16,11 @@ El objetivo de esta práctica es instalar y configurar Apache en una máquina vi
 + 2 Preparación del entorno:
     + Actualización de paquetes:
     ![Actualización de paquetes](image-5.png)
-    + Instalción apache2: 
+
+> A partir de aquí está realizado con otro ordenador con software Windows 11, por ello, las fotos serán en una terminal diferente. 
+
+    + Instalación apache2: 
+    ![instalacion apache](./image-6.png)
 
 
 
